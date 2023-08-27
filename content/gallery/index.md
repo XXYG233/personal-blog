@@ -4,9 +4,9 @@ date: 2023-8-27T18:45:32+02:00
 draft: false
 ---
 
-I will be keep updating some of photographys🌌 here.
+I will keep updating some of the photographs🌌 here.
 
-No description for most of photographys, becasue I AM LAZY.
+No description for most of the photographs, because I AM LAZY.
 
 Most of them were taken by:
 
