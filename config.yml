@@ -1,7 +1,9 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+title: Yan
 paginate: 5
-theme: PaperMod
+theme: 
+ - PaperMod
+ - hugo-shortcode-gallery
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -32,9 +34,9 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
+                - name: Gallery
+                  url: /gallery
+                  weight: 1
                 - name: WiKi
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 - name: Discord
@@ -108,7 +110,7 @@ params:
     author: Theme PaperMod
     # author: ["Me", "You"] # multiple authors
 
-    defaultTheme: auto
+    # defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
