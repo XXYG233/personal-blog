@@ -1,11 +1,11 @@
 ---
-title: "About Me"
+title: "A Peek of Me"
 date: 2023-08-25T13:58:02+08:00
 draft: false    
 ---
 # 👋Welcome to My Blog!
 
-Hello! My name is Alex Zhang, and I'm currently a student at UC Davis🐮. I enjoy travelling and meditating, and I've learned a lot of interesting things along the way.
+Hello🙃! My name is Alex Zhang, and I'm currently a student at UC Davis🐮. I enjoy travelling and meditating, and I've learned a lot of interesting things along the way.
 
 In this blog, I'll be sharing my thoughts and experiences. I hope you'll find it interesting and informative.
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yan</title>
+    <title>Home</title>
     <link>/gallery/</link>
-    <description>Recent content on Yan</description>
+    <description>Recent content on Home</description>
     <image>
-      <title>Yan</title>
+      <title>Home</title>
       <url>/papermod-cover.png</url>
       <link>/papermod-cover.png</link>
     </image>

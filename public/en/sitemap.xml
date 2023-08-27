@@ -5,20 +5,12 @@
     <loc>/posts/about-me/</loc>
     <lastmod>2023-08-25T13:58:02+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-08-25T13:58:02+08:00</lastmod>
-  </url><url>
     <loc>/</loc>
     <lastmod>2023-08-25T13:58:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/"
+                hreflang="cn"
+                href="/cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -26,9 +18,12 @@
                 href="/"
                 />
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2023-08-25T13:58:02+08:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/gallery/</loc>
   </url><url>
     <loc>/series/</loc>
   </url><url>

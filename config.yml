@@ -1,5 +1,5 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Yan
+title: Home
 paginate: 5
 theme: 
  - PaperMod
@@ -37,16 +37,13 @@ languages:
                 - name: Gallery
                   url: /gallery
                   weight: 1
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+         
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
+    cn:
+        languageName: "CN"
+        languageAltTitle: Chinese
         weight: 2
-        title: PaperModL2
+        title: 主页
         taxonomies:
           category: FRcategories
           tag: FRtags
@@ -81,22 +78,7 @@ languages:
                 - name: NullLink
                   url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-        menu:
-            main:
-                - name: FATags
-                  url: fatags
-                  weight: 10
+    
 
 outputs:
     home:
@@ -138,23 +120,25 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Welcome to my blog"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            😃Nice to meet you here. I share my thoughts and some random stuffs here. 
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 
-            - Do give a 🌟 on Github !
+            😃Un gusto conocerte aquí. Comparto mis pensamientos y algunos tipos de cosas al azar aquí.
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+
+            😃很高兴与您在此相遇，我在此分享我的想法和一些随机的东西。
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+          url: "https://github.com/XXYG233/"
+        - name: instagram
+          url: "https://www.instagram.com/scalex30/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/yandong-zhang-3327b9236/"
+        - name: wechat
+          url: "wechat.com" 
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
