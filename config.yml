@@ -73,16 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi，nice to meet you here \U0001F44B"
+    Title: "Hi, nice to meet you here \U0001F44B"
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: instagram
+      url: "https://www.instagram.com/scalex30/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/XXYG233/"
+    - name: wechat
+      url: "https://u.wechat.com/MLFl9gh5MlTbi8CHjN2OylM"
 
   analytics:
     google:

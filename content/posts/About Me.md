@@ -1,14 +1,7 @@
 ---
 title: "About Me"
 date: 2023-08-25T13:58:02+08:00
-draft: false
-cover: 
-    image: WechatIMG491.jpg
-
-
-
-    
-    
+draft: false    
 ---
 # 👋Welcome to My Blog!
 
